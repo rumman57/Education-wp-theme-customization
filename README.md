@@ -16,10 +16,11 @@ Put your code to your exact location.
 
 Open "wp-config.php". Change DB_NAME,DB_USER & DB_PASSWORD as you set.
 
-Admin Panel : Username => 'rumman' & Password => 'fLtTFG!FOYM8@iOtopJBSeO8'
+**Admin Panel : Username => 'rumman' & Password => 'fLtTFG!FOYM8@iOtopJBSeO8'**
 
 Now,Go to Database Folder. Open 'core.options.txt' file & copy the text. 
 
-Now , Go to Dashboard->Appearance->Theme Options. Then Click the 'import' options in the right corner,paste the text & Apply the code.                  
+Now , Go to Dashboard->Appearance->Theme Options. Then Click the 'import' options in the right corner,paste the text & Apply the code.
 
+Go To Settings->Permalinks. In common settings select 'Post Name' & Save Changes.     
 #### That's All.Thanks.
