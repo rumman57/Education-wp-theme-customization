@@ -1,0 +1,64 @@
+Version 1.0
+	Release
+
+Version 1.1
+	+ VC Frontend editor compatibility improved.
+	+ WordPress Customizer compatibility improved.
+	+ Tribe Events compatibility improved.
+	+ Extra column is added in categories, posts and pages list, where changed (overriden) theme options are displayed.
+
+Version 1.2
+	+ Lessons functionality is added - now you can create unlimited lessons for each course.
+	+ Submenu arrows is added
+	* Minor fixes in the scroll areas
+
+Version 1.3
+	+ VC Frontend editor compatibility improved
+	+ BB Press and Buddy Press compatibility improved
+	* Minor fixes in the sidebar's color schemes
+
+Version 1.4
+	+ Now One-Click Installer can split the import of demo contents into parts, with reaching time limits on php-script execution.
+	+ PO Composer is added: working with .po and .mo files has now become much easier!
+	+ E-mailer is added: collect subscribers with shortcode [trx_emailer] and do mass mailing for them
+	+ Logo for the fixed state of the main menu is added
+	* Parameter 'autoplay' for shortcode [trx_video] is fixed
+	* Behavior of Register and Login panel's in responsive is fixed
+
+Version 1.5
+	* Login form: validation fixed (in case then empty field 'Login')
+	+ Registration form: success registration message is added
+	+ Separate template for the 'Search results' page is now supported
+	* Minor fixes in the portfolio styles
+
+Version 1.5.1
+	* Minor fix: additional settings for courses and lessons appear again
+
+Version 1.6
+	* Style 'Accordion' in the shortcode [trx_blogger] is fixed
+	* Settings for the shortcode [trx_testimonials] are fixed
+	* Layout of the Post Options block in admin panel is fixed
+	+ Used a new method of constructing columns when displaying blog
+	+ Plugins included in the theme, updated to their latest versions
+
+Version 1.6.1
+	* Minor fix: Google map latlng detection fixed
+
+Version 1.6.2
+	+ Plugins included in the theme, updated to their latest versions
+
+Version 1.7
+	* Content duplication of some shortcodes in front-end editor removed.
+	+ Plugins included in the theme, updated to their latest versions.
+
+Version 1.8
+	* Single portfolio items navigation is fixed.
+	* Unnecessary content duplicating when pressing the 'Clone' button in Visual Composer is fixed.
+	+ Color picker for each category/post is added. Make each category unique!
+
+Version 1.9
+    + Theme core speed is increased.
+	+ The date on single courses page is translation ready. If start date is not specified - it is not display.
+	+ Compatibility with WooComerce's latest versions is improved.
+	* Links in the portfolio hovers for some circle effects are fixed.
+	* Shortcode parameters popup in Visual Composer is fixed.
